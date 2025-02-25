@@ -1,0 +1,6 @@
+NAME: FIAP
+user: rm<numero do rm>
+PASS: DD/MM/AA
+HOST: oracle.fiap.com.br
+PORT: 1521
+SID: orcl
